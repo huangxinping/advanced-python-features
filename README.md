@@ -15,7 +15,7 @@ Python的灵活性来源于各种各样的库以及特性，本仓库收集了�
 
 
 ## 参考文档
-https://blog.edward-li.com/tech/advanced-python-features/
+https://blog.edward-li.com/tech/advanced-python-features/  
 https://medium.com/@shivanisingh16012004/top-10-advanced-python-concepts-29244d385c4a  
 https://medium.com/python-features/16-most-trending-python-features-and-how-to-use-them-608b50d60f5f  
 https://python.plainenglish.io/7-advanced-python-features-that-will-blow-your-mind-1af8d0064934  
