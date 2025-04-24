@@ -1,2 +1,6 @@
-# advanced-python-features
-一些Python高级特性
+# 高级 Python 特性
+
+
+Python的灵活性来源于各种各样的库以及特性，收集了一些不太常用的特性，助力写出更Pythonic的代码。
+
+`不定期更新`
